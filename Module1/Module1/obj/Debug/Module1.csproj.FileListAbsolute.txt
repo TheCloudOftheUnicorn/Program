@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\Module1\Module1\bin\Debug\Module1.exe.config
+C:\Users\Alex\Desktop\Module1\Module1\bin\Debug\Module1.exe
+C:\Users\Alex\Desktop\Module1\Module1\bin\Debug\Module1.pdb
+C:\Users\Alex\Desktop\Module1\Module1\obj\Debug\Module1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Module1\Module1\obj\Debug\Module1.exe
+C:\Users\Alex\Desktop\Module1\Module1\obj\Debug\Module1.pdb
+C:\Users\Alex\Desktop\Program\Module1\Module1\bin\Debug\Module1.exe.config
+C:\Users\Alex\Desktop\Program\Module1\Module1\obj\Debug\Module1.exe
+C:\Users\Alex\Desktop\Program\Module1\Module1\obj\Debug\Module1.pdb
+C:\Users\Alex\Desktop\Program\Module1\Module1\bin\Debug\Module1.exe
+C:\Users\Alex\Desktop\Program\Module1\Module1\bin\Debug\Module1.pdb
+C:\Users\Alex\Desktop\Program\Module1\Module1\obj\Debug\Module1.csprojResolveAssemblyReference.cache
