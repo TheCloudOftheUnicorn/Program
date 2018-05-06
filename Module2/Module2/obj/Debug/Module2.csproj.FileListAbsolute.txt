@@ -1,0 +1,6 @@
+C:\Users\Alex\Desktop\Program\Module2\Module2\bin\Debug\Module2.exe.config
+C:\Users\Alex\Desktop\Program\Module2\Module2\obj\Debug\Module2.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Desktop\Program\Module2\Module2\bin\Debug\Module2.exe
+C:\Users\Alex\Desktop\Program\Module2\Module2\bin\Debug\Module2.pdb
+C:\Users\Alex\Desktop\Program\Module2\Module2\obj\Debug\Module2.exe
+C:\Users\Alex\Desktop\Program\Module2\Module2\obj\Debug\Module2.pdb
