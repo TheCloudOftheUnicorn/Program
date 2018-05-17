@@ -8,14 +8,19 @@ namespace Module2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter text:\n"+"If you want stop click on Escape+Enter");
-            List<string> lineCollection = new List<string>();
+            while (true)
+            {
+                Console.WriteLine("If you want stop click on Escape+Enter!" + "Enter text:\n");
+                List<string> lineCollection = new List<string>();
 
-            LineProcessing lProc = new LineProcessing();
+                LineProcessing lProc = new LineProcessing();
 
-            lProc.EnterConsole();
-            lProc.GetLetters(lineCollection);
-            Console.ReadLine();
+                lProc.EnterConsole();
+
+                Console.WriteLine("Collections of the first letter from your text:");
+                lProc.GetLetters(lineCollection);
+                Console.ReadLine();
+            }
         }
                
     }
